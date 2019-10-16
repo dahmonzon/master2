@@ -1,0 +1,48 @@
+EmployeeID;Hire Date;Office;Reports To;EmployeeName;Title;SalesOffice
+1;;5;;Rock Roll;Sales Representative;Seattle
+2;;1;;Elvis Presley;President;Stockholm
+3;;1;;Rob Carsson;Sales Representative;Stockholm
+4;;3;;Joan Callins;Sales Manager;Paris
+5;;3;;Ingrid Hendrix;Sales Representative;Paris
+6;;4;;Lennart Skoglund;Sales Representative;Nice
+7;;2;;Tom Lindwall;Sales Representative;Lund
+8;;2;;Leif Shine;Sales Coordinator;Lund
+9;;1;;Helen Brolin;Sales Representative;Stockholm
+19;;2;;David Letterman;Product Manager;Lund
+20;;3;;John Cleaves;Product Manager;Paris
+21;;4;;Miro Takako;Product Manager;Nice
+22;;5;;Binh Protzmann;Product Manager;Seattle
+23;;2;;Cezar Sandu;Systems Manager;Lund
+24;;2;;Cindy Crawford;Systems Manager;Lund
+25;;2;;James Bond;Systems Manager;Lund
+26;;2;;John Doe;Systems Manager;Lund
+27;;5;;Mario Kaddafi;Systems Manager;Seattle
+28;;5;;Paul Dupont;Systems Manager;Seattle
+29;;5;;Sven Svensson;Storeman;Seattle
+30;;5;;Ira Baumel;Storeman;Seattle
+31;;5;;Keith Helmkey;Storeman;Seattle
+32;;3;;Rolf Wesenlund;Storeman;Paris
+33;;3;;Ann Lindquist;Storeman;Paris
+34;;3;;Bill Yang;Storeman;Paris
+35;;3;;Charles Ingvar Jönsson;Storeman;Paris
+36;;3;;Jacques Clouseau;Storeman;Paris
+37;;4;;Jerry Tessel;Network Manager;Nice
+38;;4;;John Lemon;Network Manager;Nice
+39;;4;;Marcus Salvatori;Storeman;Nice
+40;;4;;Olivier Simenon;Storeman;Nice
+41;;4;;Sunil Gupta;Storeman;Nice
+42;;1;;Östen Ärlig;Account Manager;Stockholm
+43;;2;;Bob Park;Account Manager;Lund
+44;;2;;Clark Kent;Account Manager;Lund
+45;;3;;Joe Cheng;Account Manager;Paris
+46;;3;;Kaya Alpan;Account Manager;Paris
+47;;4;;Michelle Tyson;Account Manager;Nice
+48;;4;;Ricardo Gucci;Account Manager;Nice
+49;;1;;Steve Cioazzi;Operator/Clerk;Stockholm
+50;;2;;Kenneth Finley;Operator/Clerk;Lund
+51;;3;;Lucky Luke;Operator/Clerk;Paris
+52;;1;;Mike Ashkenaz;Account Manager;Stockholm
+53;;2;;Richard Ranieri;Account Manager;Lund
+54;;3;;Sabrina Richards;Account Manager;Paris
+55;;4;;Sehoon Daw;Account Manager;Nice
+161;;5;;Stefan Lind;Account Manager;Seattle
